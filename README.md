@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Manh-Thao NGUYEN</h1>
 <h3 align="center">I am a PhD Candidate in Electromagnetic at University Côte D'Azur, FRANCE</h3>
-<h3 align="center">Or you may know me as "a random guy who in love with electronics, embedded systems & 📡 satellites 🛰"</h3>
+<h3 align="center">Or you may know me as "a random guy who in love with electronics, embedded systems & 📡 satellites 🛰" from my bio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenmanhthao996tn&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenmanhthao996tn" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Integrated Antenna for CubeSat**
 
-- 📄 I have experience in designing devices & operating LoRa/LoRaWAN network since 2016 for both Terrestrial and Satellite. Checkout some terminal/end-node designes that I have been contributed to:
+- 📄 I have experience in designing devices and operating LoRa/LoRaWAN networks since 2016 for both terrestrial and satellite applications. Check out some terminal/end-node designs that I have contributed to:
   - [LEAT EchoStar Terminal](https://github.com/nguyenmanhthao996tn/LEAT-EchoStar-Terminal-BSP)
   - [Lacuna LS200]()
   - [Lacuna LS300]()
