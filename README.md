@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Integrated Antenna for CubeSat**
 
-- 📄 I have 8 year experience in designing devices & operating LoRa/LoRaWAN network for both Terrestrial and Satellite. 
+- 📄 I have experience in designing devices & operating LoRa/LoRaWAN network since 2016 for both Terrestrial and Satellite. 
 
 - 📫 Reach me at **manhthao.spm@gmail.com**
 
