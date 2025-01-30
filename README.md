@@ -12,6 +12,7 @@
   - [LEAT EchoStar Terminal](https://github.com/nguyenmanhthao996tn/LEAT-EchoStar-Terminal-BSP)
   - [Lacuna LS200]()
   - [Lacuna LS300]()
+  - [UCA-LEAT LoRa UWB Board](https://github.com/nguyenmanhthao996tn/LoRa-UWB-Core)
   - [UCA AIoT](https://github.com/FabienFerrero/UCA_AIOT)
   - [UCA21](https://github.com/FabienFerrero/UCA21)
   - [UCA Education Board](https://github.com/FabienFerrero/UCA_Education_Board)
