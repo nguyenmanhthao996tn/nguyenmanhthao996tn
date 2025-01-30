@@ -8,7 +8,13 @@
 
 - 🔭 I’m currently working on **Integrated Antenna for CubeSat**
 
-- 📄 I have experience in designing devices & operating LoRa/LoRaWAN network since 2016 for both Terrestrial and Satellite. 
+- 📄 I have experience in designing devices & operating LoRa/LoRaWAN network since 2016 for both Terrestrial and Satellite. Checkout some terminal/end-node designes that I have been contributed to:
+  - [LEAT EchoStar Terminal](https://github.com/nguyenmanhthao996tn/LEAT-EchoStar-Terminal-BSP)
+  - [Lacuna LS200]()
+  - [Lacuna LS300]()
+  - [UCA AIoT](https://github.com/FabienFerrero/UCA_AIOT)
+  - [UCA21](https://github.com/FabienFerrero/UCA21)
+  - [UCA Education Board](https://github.com/FabienFerrero/UCA_Education_Board)
 
 - 📫 Reach me at **manhthao.spm@gmail.com**
 
