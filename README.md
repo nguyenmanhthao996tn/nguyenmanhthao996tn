@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, My name is Manh-Thao NGUYEN</h1>
-<h3 align="center">I am a PhD Candidate in Electromagnetic at University Côte D'Azur, FRANCE</h3>
-<h3 align="center">Or you may know me as "a random guy who in love with electronics, embedded systems & 📡 satellites 🛰" from my bio</h3>
+<h1 align="center">👋 Hi, My name is Manh-Thao NGUYEN</h1>
+
+I am a PhD candidate specializing in electromagnetics at **the Laboratoire d’Electronique, Antennes et Télécommunications** (LEAT), **Université Côte d'Azur**, France. My passion lies in the dynamic fields of electronics, embedded systems, IoT devices, 📡 antennas 📡, and 🛰 satellite technologies 🛰, where I strive to push the boundaries of innovation. I also hold a Bachelor's degree in Computer Engineering and a Master's degree in Computer Science, which have laid the foundation for my academic and professional journey.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenmanhthao996tn&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenmanhthao996tn" /> </p>
 
