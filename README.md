@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thaonguyenuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thaonguyenuit" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0002-8341-3964" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="0000-0002-8341-3964" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
